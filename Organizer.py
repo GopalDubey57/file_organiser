@@ -20,9 +20,5 @@ if len(l)!=0:
 else :
     print('No Document file found')
 
-''' what I learnt is
-i forgot that mkdir gives error if folder alredy exist and
-I could have cheked folder exists or not by using os.path.exists(folder address)->true or false
-forgot to use list comprihenshions'''
 
 
